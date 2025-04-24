@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I am Breno Amorim</h1>
-<h3 align="center">A passionate computer enginner student from São Paulo, Brasil who's exploring the world of web development and software enginnering.</h3>
+<h1 align="start">Hello, I am Breno Amorim</h1>
+<h3 align="left">A passionate computer enginner student from São Paulo, Brasil who's exploring the world of web development and software enginnering.</h3>
 
 - 🔭 I’m currently working on [Furia ChatBot](https://github.com/AmorimBreno/furia-chatbot.git)
 
