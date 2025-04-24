@@ -20,7 +20,7 @@
   <!-- Coluna 1: Front-End -->
   <div align="left">
     <h3>Front-End</h3>
-    <p align="left" style="vertical-align: top">
+    <p align="left">
       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -28,7 +28,7 @@
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     </p>
   </div>
-  <div style="display: inline-block; vertical-align: top; width: 5%;"></div>
+  <div style="display: inline-block; width: 5%;"></div>
 
   <!-- Coluna 2: Back-End -->
   <div align="left" >
@@ -38,7 +38,7 @@
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     </p>
   </div>
-  <div style="display: inline-block; vertical-align: top; width: 5%;"></div>
+  <div style="display: inline-block; width: 5%;"></div>
 
   <!-- Coluna 3: Database -->
   <div align="left">
@@ -48,7 +48,7 @@
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
     </p>
   </div>
-  <div style="display: inline-block; vertical-align: top; width: 5%;"></div>
+  <div style="display: inline-block; width: 5%;"></div>
   <div align="left">
     <h3>Others</h3>
     <p align="left">
