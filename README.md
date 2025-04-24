@@ -18,7 +18,7 @@
 
 <div style="display: flex; flex-wrap: wrap; align:center">
   <!-- Coluna 1: Front-End -->
-  <div align="center">
+  <div align="left">
     <h3>Front-End</h3>
     <p align="left" style="vertical-align: top">
       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
@@ -31,7 +31,7 @@
   <div style="display: inline-block; vertical-align: top; width: 5%;"></div>
 
   <!-- Coluna 2: Back-End -->
-  <div align="center" >
+  <div align="left" >
     <h3>Back-End</h3>
     <p align="left" >
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -41,7 +41,7 @@
   <div style="display: inline-block; vertical-align: top; width: 5%;"></div>
 
   <!-- Coluna 3: Database -->
-  <div align="center">
+  <div align="left">
     <h3>Database</h3>
     <p align="left">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -49,7 +49,7 @@
     </p>
   </div>
   <div style="display: inline-block; vertical-align: top; width: 5%;"></div>
-  <div align="center">
+  <div align="left">
     <h3>Others</h3>
     <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
