@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Furia ChatBot](https://github.com/AmorimBreno/furia-chatbot.git)
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m learning **React and Node.js**
 
 - 📫 How to reach me **brenoamorim11@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1v6bKUYIZblx71OAlLBxf-jFfQGcrgUVW/edit?usp=drive_link&ouid=111471740861289314899&rtpof=true&sd=true](https://docs.google.com/document/d/1v6bKUYIZblx71OAlLBxf-jFfQGcrgUVW/edit?usp=drive_link&ouid=111471740861289314899&rtpof=true&sd=true)
+- 📄 Know about my experiences on my [resume](https://docs.google.com/document/d/1v6bKUYIZblx71OAlLBxf-jFfQGcrgUVW/edit?usp=drive_link&ouid=111471740861289314899&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
